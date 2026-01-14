@@ -115,7 +115,7 @@ notebooks/chart_analysis_mvp.ipynb
 ```
 data/sample_chart.png
 ```
-Ru- n the notebook top to bottom.
+- Run the notebook top to bottom.
 
 ⸻
 
@@ -144,7 +144,7 @@ Risk Management : Reduce position size
 
 ⸻
 
-# Current Limitations (MVP Scope):
+## Current Limitations (MVP Scope):
 	•	Price scale is relative (pixel-normalized)
 	•	Candlestick body/wick parsing is basic
 	•	No backtesting or order execution
@@ -154,7 +154,7 @@ These are intentional to keep the MVP focused and interpretable.
 
 ⸻
 
-#  Roadmap
+##  Roadmap
 
 Planned extensions include:
 	•	Candlestick-level OHLC reconstruction
@@ -167,7 +167,7 @@ Planned extensions include:
 
 ⸻
 
-# Disclaimer
+## Disclaimer
 
 trade.jup is a research and educational project.
 
